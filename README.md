@@ -23,13 +23,4 @@ It demonstrates basic concepts of **React components**, **forms**, **state manag
 
 ---
 
-## 🛠️ Tech Stack
-- **React**  
-- **HTML5 / CSS3**  
-- **JavaScript (ES6)**  
-- **VS Code**
 
----
-
-## 🧾 License
-This project is developed for **educational and demonstration purposes**.
